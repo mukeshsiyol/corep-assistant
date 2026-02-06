@@ -1,11 +1,10 @@
 MUKESH KUMAR
-IIT Delhi | [Your Email] | [Your Phone] | [LinkedIn Profile]
+IIT Delhi | mukeshsiyol2006@gmail.com | 6377335248 | www.linkedin.com/in/mukesh-kumar06
 
-[Date]
+07/02/2026
 
 Hiring Manager
-[Company Name]
-[Company Address]
+AKOIN
 
 Dear Hiring Manager,
 
@@ -72,6 +71,6 @@ ENCLOSURES:
 • Academic Transcript (if required)
 
 ONLINE MATERIALS:
-• Interactive Proposal: [Your URL]/Executive_Summary.html
-• System Architecture: [Your URL]/System_Architecture_Diagram.html
-• GitHub Repository: [Your GitHub URL]
+• Interactive Proposal: http://mukeshsiyol.me/corep-assistant//Executive_Summary.html
+• System Architecture: http://mukeshsiyol.me/corep-assistant//System_Architecture_Diagram.html
+• GitHub Repository: http://mukeshsiyol/corep-assistant
