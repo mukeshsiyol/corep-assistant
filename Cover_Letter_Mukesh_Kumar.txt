@@ -1,0 +1,77 @@
+MUKESH KUMAR
+IIT Delhi | [Your Email] | [Your Phone] | [LinkedIn Profile]
+
+[Date]
+
+Hiring Manager
+[Company Name]
+[Company Address]
+
+Dear Hiring Manager,
+
+RE: Application for Internship Position - Regulatory Technology / Data Analytics / AI
+
+I am writing to express my strong interest in the internship position at [Company Name]. As a student at IIT Delhi with a deep interest in the intersection of artificial intelligence and regulatory compliance, I am excited about the opportunity to contribute to your team's efforts in transforming regulatory reporting through innovative technology solutions.
+
+WHY THIS MATTERS TO ME
+
+The challenge of regulatory compliance in financial services represents one of the most promising applications of AI—not because it's trendy, but because it addresses real operational pain points while requiring the careful, explainable approach that responsible AI demands. My academic work in machine learning and my interest in financial regulation have led me to explore how large language models can assist (not replace) human experts in navigating complex regulatory frameworks.
+
+WHAT I'VE PREPARED
+
+For this application, I have developed a comprehensive proposal for an LLM-assisted PRA COREP reporting system that demonstrates my understanding of:
+
+• Regulatory Compliance: Deep familiarity with PRA Rulebook requirements, COREP reporting frameworks, and the operational challenges banks face in preparing accurate submissions
+
+• AI Safety and Governance: Recognition that high-stakes domains require constrained, auditable AI systems with mandatory human oversight—not blind automation
+
+• Practical Implementation: A realistic 12-week roadmap scoped appropriately for an internship, focusing on 2 COREP templates rather than attempting full automation
+
+• Business Value: Quantifiable ROI analysis showing £17,000-£57,000 annual benefit from 40% reduction in analyst research time
+
+THE TECHNICAL APPROACH
+
+My proposed system uses Retrieval-Augmented Generation (RAG) to ground LLM outputs in actual regulatory text, combined with schema constraints to prevent hallucination. Every generated field includes regulatory citations (PRA Rulebook articles, CRR references), validation checks, and confidence scoring. The key innovation is not the AI itself—it's the governance framework that makes AI safe for regulatory use.
+
+The submission package includes:
+✓ 25-page detailed proposal with complete system architecture
+✓ Working Python implementation (RAG retrieval, validation engine, full workflow)
+✓ Interactive visual materials (architecture diagrams, executive summary)
+✓ Realistic 12-week implementation roadmap
+
+All materials are available at:
+[Your GitHub Pages URL - e.g., https://yourusername.github.io/corep-assistant/]
+
+WHY [COMPANY NAME]
+
+[Company Name]'s reputation for [mention something specific about the company—their regulatory tech initiatives, innovation in compliance, commitment to responsible AI, etc.] aligns perfectly with my career interests. I am particularly drawn to [specific team/project if known], and I believe my combination of technical skills and regulatory awareness would enable me to contribute meaningfully from day one.
+
+I am eager to bring my analytical mindset, coding proficiency (Python, ML frameworks, RAG systems), and genuine passion for regulatory technology to your team. I would welcome the opportunity to discuss how this proposal could evolve into a practical project during the internship, or to explore other high-impact initiatives where I could add value.
+
+NEXT STEPS
+
+I am available for an interview at your convenience and would be happy to:
+• Walk through the technical architecture in detail
+• Demonstrate the working code implementation
+• Discuss how this approach could be adapted to your specific regulatory reporting needs
+• Answer any questions about my background and qualifications
+
+Thank you for considering my application. I look forward to the opportunity to contribute to [Company Name]'s mission of [mention company mission if known, or use: "transforming regulatory compliance through innovative technology"].
+
+Yours sincerely,
+
+
+Mukesh Kumar
+IIT Delhi
+
+---
+
+ENCLOSURES:
+• Complete Assignment Package (5 files)
+• Resume/CV
+• Academic Transcript (if required)
+
+ONLINE MATERIALS:
+• Interactive Proposal: [Your URL]/Executive_Summary.html
+• System Architecture: [Your URL]/System_Architecture_Diagram.html
+• GitHub Repository: [Your GitHub URL]
