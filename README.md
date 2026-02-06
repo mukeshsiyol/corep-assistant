@@ -3,7 +3,7 @@
 
 **Candidate:** Mukesh Kumar  
 **Institution:** IIT Delhi  
-**Role:** Internship (Regulatory / Data / AI)  
+**Role:** Internship AI
 **Date:** February 2026
 
 ---
@@ -194,9 +194,9 @@ This proposal demonstrates:
 ## 📞 Contact
 
 **Mukesh Kumar**  
-**IIT Delhi**  
-**Email:** [Your Email]  
-**LinkedIn:** [Your Profile]
+**IIT Delhi** 
+**Mail:** mukeshsiyol2006@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/mukesh-kumar06
 
 ---
 
