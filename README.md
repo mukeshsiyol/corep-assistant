@@ -195,7 +195,7 @@ This proposal demonstrates:
 
 **Mukesh Kumar**  
 **IIT Delhi** 
-**Mail:** mukeshsiyol2006@gmail.com
+**Email:** mukeshsiyol2006@gmail.com
 **LinkedIn:** https://www.linkedin.com/in/mukesh-kumar06
 
 ---
