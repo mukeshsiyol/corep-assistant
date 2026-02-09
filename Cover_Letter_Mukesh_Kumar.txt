@@ -10,7 +10,7 @@ Dear Hiring Manager,
 
 RE: Application for Internship Position - Regulatory Technology / Data Analytics / AI
 
-I am writing to express my strong interest in the internship position at [Company Name]. As a student at IIT Delhi with a deep interest in the intersection of artificial intelligence and regulatory compliance, I am excited about the opportunity to contribute to your team's efforts in transforming regulatory reporting through innovative technology solutions.
+I am writing to express my strong interest in the internship position at AKOIN. As a student at IIT Delhi with a deep interest in the intersection of artificial intelligence and regulatory compliance, I am excited about the opportunity to contribute to your team's efforts in transforming regulatory reporting through innovative technology solutions.
 
 WHY THIS MATTERS TO ME
 
@@ -39,13 +39,13 @@ The submission package includes:
 ✓ Realistic 12-week implementation roadmap
 
 All materials are available at:
-[Your GitHub Pages URL - e.g., https://yourusername.github.io/corep-assistant/]
+https://mukeshsiyol.me/corep-assistant/
 
-WHY [COMPANY NAME]
+WHY AKOIN
 
-[Company Name]'s reputation for [mention something specific about the company—their regulatory tech initiatives, innovation in compliance, commitment to responsible AI, etc.] aligns perfectly with my career interests. I am particularly drawn to [specific team/project if known], and I believe my combination of technical skills and regulatory awareness would enable me to contribute meaningfully from day one.
-
-I am eager to bring my analytical mindset, coding proficiency (Python, ML frameworks, RAG systems), and genuine passion for regulatory technology to your team. I would welcome the opportunity to discuss how this proposal could evolve into a practical project during the internship, or to explore other high-impact initiatives where I could add value.
+AKOIN’s strong reputation in regulatory technology and its focus on innovative, responsible compliance solutions closely align with my career interests. I am particularly drawn to AKOIN’s work at the intersection of data, regulation, and technology, where advanced analytics and AI are used to solve real-world regulatory challenges. This balance of technical depth and regulatory rigor is exactly the environment in which I want to grow as an engineer.
+With a solid foundation in Python, machine learning frameworks, and retrieval-augmented generation (RAG) systems, combined with a strong interest in regulatory reporting and governance, I believe I can contribute meaningfully from day one. I am motivated by problems that require both analytical thinking and an understanding of regulatory expectations, and AKOIN’s approach to compliance innovation strongly resonates with this mindset.
+I am eager to bring my technical skills, problem-solving ability, and genuine passion for regulatory technology to the team. I would welcome the opportunity to further discuss how this proposal could evolve into a practical internship project, or to contribute to other high-impact initiatives where I can add measurable value.
 
 NEXT STEPS
 
